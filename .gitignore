@@ -1,3 +1,4 @@
 *.pdf
 temp/*
-text/*
+ocr/*
+ocr-pages/*
